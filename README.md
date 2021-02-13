@@ -1,3 +1,3 @@
-# SPeCtral_X_FlowePage
+# SPeCtral_X_FlowerPage
 
 Saját fejlesztésű oldal kérésre.
